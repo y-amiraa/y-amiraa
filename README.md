@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @y-amiraa
-- 👀 I’m interested in comp sci and video games
-- 🌱 I’m currently learning Python and Java script
-- 💞️ I’m looking to collaborate on video games projects
-- 📫 How to reach me : on instagram : y_amiraa
-
+Hello!
+My name is Amira, and I am a mathematics and computer science student.
+I'm fond of video games and coding since I was little.
+Here, you can access my side projects and also my socials.
+Enjoy ! :)
 
 <!---
 y-amiraa/y-amiraa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
